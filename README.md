@@ -160,6 +160,10 @@ Contributions are welcome! Please:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+contact:
+- Email: instamoreda13@gmail.com
+- telegram: justmo69
 ## Roadmap
 
 - [ ] Enhanced proxy rotation
